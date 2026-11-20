@@ -1,0 +1,62 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# SQLite database files (generated at runtime)
+data/*.db
+data/**/*.db
+*.db
+*.sqlite3
+
+# Temporary wheels and binaries
+data/wheels/
+data/download_wheels.py
+*.whl
+
+# Streamlit cache and configs
+.streamlit/cache/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.xml
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
