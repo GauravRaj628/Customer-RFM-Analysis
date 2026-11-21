@@ -4,7 +4,7 @@ Main Streamlit application entry point and multi-page router.
 
 Student  : Gaurav Raj  |  Roll: 2500320140054
 Programme: MCA 2nd Year  |  ABES Engineering College, Ghaziabad
-Mentor   : Kalpana Diwedi
+Mentor   : Mr. Dinesh Sereno
 Scenario : ABC Retail Solutions Pvt. Ltd., Noida
 """
 
